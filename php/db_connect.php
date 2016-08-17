@@ -21,7 +21,7 @@
         //require_once __DIR__ . '/config.php';
 		define("DB_HOST", "mysql.hostinger.com.br");
 		define("DB_USER", "u289548429_tgadm");
-		define("DB_PASSWORD", "Daisastofmi02.");
+		define("DB_PASSWORD", "password");
 		define("DB_DATABASE", "u289548429_ads");
  
         // Connecting to mysql database
